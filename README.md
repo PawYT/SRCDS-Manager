@@ -14,4 +14,5 @@
 - *Auto updater*
 - *More in depth info about the server and its players*
 - *Making decoy server when updating*
-- *Creating servers from the start*
+- *Creating servers from the scratch*
+- *Auto install/update sourcemod/metamod*
