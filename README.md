@@ -3,7 +3,7 @@
 
 ![Preview](http://i.imgur.com/fxva1IB.png)
 
-The goal with this is to make something where you are able to host, manage and control servers remotely with.
+The goal with this is to make something where you are able to host, manage and control servers remotely.
 So even if you are not the host, you should still be able to run this program and fill in the right information and now you have control over your server.
 
 ### Features
